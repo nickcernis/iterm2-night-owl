@@ -26,3 +26,9 @@ A port of Sarah Drasner’s [Night Owl VS Code theme](https://github.com/sdras/n
 6. Choose “Import…” from the “Color Presets” drop-down.
 7. Import the `Night Owl.itermcolors` file.
 8. Choose “Night Owl” from the Color Presets. 
+
+## Tips
+
+I recommend that you untick “smart box cursor color” to get a purple cursor color that more closely matches VS Code.
+
+![iTerm color settings showing smart box cursor color unticked](prefs.png)
